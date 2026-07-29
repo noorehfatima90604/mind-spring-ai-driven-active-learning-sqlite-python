@@ -1,0 +1,8 @@
+{
+  "appId": "com.mindspring.app",
+  "appName": "MindSpring",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

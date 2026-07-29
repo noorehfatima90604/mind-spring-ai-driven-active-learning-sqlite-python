@@ -1,0 +1,4 @@
+# Model checkpoints are large — copy your save_pretrained folder here locally.
+# Track only this .gitignore, not the weight files.
+*
+!.gitignore

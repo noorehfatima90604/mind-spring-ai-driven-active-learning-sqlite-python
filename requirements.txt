@@ -1,0 +1,14 @@
+pip install chromadb sentence-transformers easyocr pdf2image google-genai
+pip install -U google-generativeai
+pip install pymupdf
+#frontend
+npm create vite@latest frontend -- --template react
+npm install lucide-react recharts framer-motion
+cd frontend
+npm run dev
+#backend
+pip install flask flask-cors
+#To check the Legacy Library (The one you are currently using)
+pip show google-generativeai
+#to connect flask with postgesql
+pip install psycopg2 flask-sqlalchemy flask-bcrypt
